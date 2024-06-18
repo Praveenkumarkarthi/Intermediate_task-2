@@ -1,0 +1,13 @@
+Available Doctors:
+ID: D1, Name: Dr. Smith, Specialization: Cardiology
+ID: D2, Name: Dr. Johnson, Specialization: Neurology
+
+Enter patient details:
+Name: Praveen
+Blood Type: B+
+Connecting with potential blood donors for patient John Doe
+Found donor: Alice with blood type B+
+
+Scheduling an appointment:
+Enter Doctor ID: D1
+Doctor Dr. Smith is providing medical service to patient John Doe
